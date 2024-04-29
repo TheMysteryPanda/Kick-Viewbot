@@ -18,6 +18,10 @@ Kick Viewbot is a powerful tool designed to help content creators and streamers 
 
 To get started with Kick Viewbot, simply visit [www.fame.cheap](https://www.fame.cheap) to access our service. Follow the instructions provided on the website to begin boosting your views on Kick.com.
 
+## Preview:
+
+Here is a short preview of our dashboard: https://gyazo.com/64baf27fc945d1faf36ae38e34b28d75
+
 ## Support
 
 If you have any questions, feedback, or need assistance, don't hesitate to reach out to our support team. You can contact us at [support@fame.cheap](mailto:support@fame.cheap), and we'll be happy to help.
