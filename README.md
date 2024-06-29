@@ -1,4 +1,3 @@
-```markdown
 # Kick Viewbot
 
 Welcome to Kick Viewbot, the best solution for boosting your streaming platform views on Kick.com! 
@@ -87,4 +86,3 @@ For more information and services related to Kick.com streaming, you can check o
 - [kick viewbots](https://fame.cheap/shop/kick)
 - [free kick viewbot](https://fame.cheap/shop/kick)
 - [kick streaming followers](https://fame.cheap/shop/kick)
-```
